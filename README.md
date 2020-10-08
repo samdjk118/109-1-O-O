@@ -2,11 +2,11 @@
 # 專題名稱： 興興知我心－長照機器人
 ## 組別 
  第五組:
-  - 楊宗核 C107118203 :chicken: leader
-  - 陳佳欣 C107118230 :panda_face:
-  - 楊惠心 C107118232 :ram:
-  - 林于庭 C107118233 :fish:
-  - 許倍誠 C107118249 :crocodile:
+  - 楊宗核 C107118203 :chicken: 組長: job: 程式 
+  - 陳佳欣 C107118230 :panda_face: job:
+  - 楊惠心 C107118232 :ram: job: 
+  - 林于庭 C107118233 :fish: job:
+  - 許倍誠 C107118249 :crocodile: job:
 
 ## 內容:
 
