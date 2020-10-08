@@ -12,6 +12,14 @@
 
 ## 內容:
   使用者透過我們的長照機器人可以諮詢許多問題，像是回報今日血壓狀況系統將分析您的身體資訊並且回報狀況
+  
+  使用說明
+  ```
+  virtualenv venv
+  source venv/bin/activate
+  pip install -r ./requirements.txt
+  python chatter_corpus.py
+  ```
 ## 甘特圖
 
 ## PERT/CPM圖
