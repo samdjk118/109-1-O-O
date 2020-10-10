@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>CHATBOT</title>
+    <link rel="stylesheet" href="{% static 'room/css/reset.css' %}"> 
+    <link rel="stylesheet" href="{% static 'room/css/home.css' %}"> 
+</head>
+<body>
+    <div class="pagefold">
+   
+        <div class="chatbot-parent">
+            <div class="chatbot-header">
+                <span>Shingbot</span>
+            </div>
+            <div class="chatbot-body">
+                <div class="message-background">
+                    <div class="message-box">
+                        <p>XX，今日有沒有吃早餐？</p>
+                    </div>
+                    <span class="time-left">p.m.9:30</span>
+                </div>
+                <div class="message-background">
+                    <div class="message-box">
+                        <p>還是沒有吃其他的東西嗎?</p>
+                    </div>
+                    <span class="time-left">p.m.9:31</span>
+                </div>
+                <div class="message-background right">
+                    <span class="time-right">p.m.9:32</span>
+                    <div class="message-box">
+                        <p>今日沒有吃，但平常有吃</p>
+                    </div>
+                </div>
+                <div class="message-background">
+                    <div class="message-box">
+                        <p>那你有沒有在吃水果或蔬食?</p>
+                    </div>
+                    <span class="time-left">p.m.9:33</span>
+                </div>
+                <div class="message-background">
+                    <div class="message-box">
+                        <p>有沒有定期運動?</p>
+                    </div>
+                    <span class="time-left">p.m.9:33</span>
+                </div>
+                <div class="message-background">
+                    <div class="message-box">
+                        <p>平常排便狀況?</p>
+                    </div>
+                    <span class="time-left">p.m.9:33</span>
+                </div>
+                 <div class="message-background right">
+                    <span class="time-right">p.m.9:34</span>
+                    <div class="message-box">
+                        <p>有的，三餐都有搭配蔬果</p>
+                    </div>
+                </div>
+                 <div class="message-background right">
+                    <span class="time-right">p.m.9:34</span>
+                    <div class="message-box">
+                        <p>平時太忙都沒有去</p>
+                    </div>
+                </div>
+                <div class="message-background right">
+                    <span class="time-right">p.m.9:35</span>
+                    <div class="message-box">
+                        <p>那您有推薦我進行什麼運動呢？</p>
+                    </div>
+                </div>
+                <div class="message-background right">
+                    <span class="time-right">p.m.9:36</span>
+                    <div class="message-box">
+                        <p>最近覺得消化不是很好，要去運動了</p>
+                    </div>
+                </div>
+            </div>
+            <div class="input-block">
+            <input class="user-input" id="input-message" placeholder="Enter Something..">
+            <button type="submit" onclick="SendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+<!-- partial -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+    integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+    <script  src="{% static 'room/js/room.js' %}"></script>
+
+</body>
+</html>
