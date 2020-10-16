@@ -25,4 +25,5 @@
   ```
 ## 甘特圖
   <img src="/img/Gantt.png" />
+  
 ## PERT/CPM圖
