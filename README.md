@@ -40,6 +40,7 @@
   3. 可靠性：高，經過反覆的訓練，才確認使用。
 
 ## 功能分解圖(functional decomposition diagram, FDD)
+  <img src="/img/FDD.jpg" />
 
 ## 案例圖
   
