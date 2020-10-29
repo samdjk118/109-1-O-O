@@ -85,4 +85,4 @@
    | 假設 | 無 |
 
 ## 系統環境圖 (DFD)
- <img src="/img/DFD.png" />
+ <img src="/img/DFD.png"  width="50%" height="50%"/>
