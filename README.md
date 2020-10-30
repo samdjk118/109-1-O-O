@@ -86,3 +86,7 @@
 
 ## 系統環境圖 (DFD)
  <img src="/img/DFD.png"  width="80%" height="80%"/>
+ 
+
+## DFD圖 0
+ <img src="/img/DFD_0.jpg"  width="80%" height="80%"/>
