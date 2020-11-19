@@ -24,10 +24,10 @@
   python chatter_corpus.py
   ```
 ## 甘特圖
-  <img src="/img/Gantt.png" />
+  <img src="/img/Gantt.png"  width="70%" height="70%"/>
   
 ## PERT/CPM圖
-  <img src="/img/pert.png" />
+  <img src="/img/pert.png" width="70%" height="70%" />
 
 ## 功能性需求
   1. 在聊天機器人裡，系統能人性化地回覆，並解決使用者的問題。
@@ -48,7 +48,7 @@
   5. 機器人能夠將使用者所點擊的選項或是輸入的內容進行蒐集並儲存到數據平台。
 
 ## 功能分解圖(functional decomposition diagram, FDD)
-  <img src="/img/FDD.jpg" />
+  <img src="/img/FDD.jpg" width="70%" height="70%" />
 
 ## 案例圖
   <img src="/img/user.jpg" />
