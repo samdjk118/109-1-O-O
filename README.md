@@ -92,20 +92,20 @@
  <img src="/img/DFD_0.jpg"  width="80%" height="80%"/>
  
  ## 循序圖 1
- <img src="/img/循序圖1.jpeg"  width="70%" height="70%"/>
+ <img src="/img/循序圖1.jpeg"  width="60%" height="60%"/>
   
   ## 活動圖 1
- <img src="/img/活動圖1.jpeg"  width="70%" height="70%"/>
+ <img src="/img/活動圖1.jpeg"  width="60%" height="60%"/>
  
   ## 循序圖 2
- <img src="/img/循序圖2.jpeg"  width="70%" height="70%"/>
+ <img src="/img/循序圖2.jpeg"  width="60%" height="60%"/>
  
    ## 活動圖 2
- <img src="/img/活動圖2.jpeg"  width="70%" height="70%"/>
+ <img src="/img/活動圖2.jpeg"  width="60%" height="60%"/>
  
   ## 循序圖 3
- <img src="/img/循序圖3.jpeg"  width="70%" height="70%"/>
+ <img src="/img/循序圖3.jpeg"  width="60%" height="60%"/>
  
   ## 活動圖 3
- <img src="/img/活動圖3.jpeg"  width="70%" height="70%"/>
+ <img src="/img/活動圖3.jpeg"  width="60%" height="60%"/>
  
