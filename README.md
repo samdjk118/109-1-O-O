@@ -90,7 +90,10 @@
 
 ## DFD圖 0
  <img src="/img/DFD_0.jpg"  width="80%" height="80%"/>
- 
+
+## UML類別圖
+ <img src="/img/UMLimg.jpeg"  width="60%" height="60%"/>
+
  ## 循序圖 1
  <img src="/img/循序圖1.jpeg"  width="60%" height="60%"/>
   
