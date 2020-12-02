@@ -94,21 +94,33 @@
 ## UML類別圖
  <img src="/img/UMLimg.png"  width="60%" height="60%"/>
 
- ## 循序圖 1
+## 循序圖 1
  <img src="/img/循序圖1.jpeg"  width="60%" height="60%"/>
   
-  ## 活動圖 1
+## 活動圖 1
  <img src="/img/活動圖1.jpeg"  width="60%" height="60%"/>
  
-  ## 循序圖 2
+## 循序圖 2
  <img src="/img/循序圖2.jpeg"  width="60%" height="60%"/>
  
-   ## 活動圖 2
+## 活動圖 2
  <img src="/img/活動圖2.jpeg"  width="60%" height="60%"/>
  
-  ## 循序圖 3
+## 循序圖 3
  <img src="/img/循序圖3.jpeg"  width="70%" height="70%"/>
  
-  ## 活動圖 3
+## 活動圖 3
  <img src="/img/活動圖3.jpeg"  width="60%" height="60%"/>
  
+## 分鏡圖 
+### 使用者畫面
+ <img src="/img/分鏡圖1.png"  width="50%" height="50%"/>
+ 
+### 院方回覆畫面
+ <img src="/img/分鏡圖2.png"  width="80%" height="80%"/>
+
+### 欄位名稱、設定及功能
+| 欄位名稱 | 資料型態 | 驗證規則 | 功能 |
+| ---------- | ------- | ----------- | ----------| 
+| 使用者輸入 | String | 存在檢查(existence check) <br> 資料型態檢查(data type check) | 回覆居家照護的例行問題，及想詢問的問題。 |
+| 院方回覆　 | String | 存在檢查(existence check) <br> 資料型態檢查(data type check) | 管理目前資料庫尚未出現的問題並由院方進行回覆。 |
