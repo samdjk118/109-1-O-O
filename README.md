@@ -126,4 +126,4 @@
 | 院方回覆　 | String | 存在檢查(existence check) <br> 資料型態檢查(data type check) | 管理目前資料庫尚未出現的問題並由院方進行回覆。 |
 
 ##實體關係圖
-<img src="/img/系統製圖-實體關係圖.jpg"  width="80%" height="80%"/>
+<img src="/img/實體關係圖.jpg"  width="80%" height="80%"/>
